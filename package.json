@@ -1,5 +1,5 @@
 {
-  "name": "@tymate/tybo",
+  "name": "@tymate/tymulus",
   "version": "0.0.4",
   "description": "Stimulus controllers for tybo_ components",
   "source": "lib/app/javascript/controllers/index.js",
