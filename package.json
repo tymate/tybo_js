@@ -7,7 +7,7 @@
   "main": "./dist/tybo.cjs",
   "module": "./dist/tybo.module.js",
   "unpkg": "./dist/tybo.umd.js",
-  "repository": "git@github.com:tymate/tybo.git",
+  "repository": "git@github.com:tymate/tymulus.git",
   "author": "Tymate <tech@tymate.com>",
   "license": "MIT",
   "dependencies": {
