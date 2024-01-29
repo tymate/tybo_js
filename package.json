@@ -1,6 +1,6 @@
 {
   "name": "@tymate/tybo_js",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "Stimulus controllers for tybo_ components",
   "source": "lib/app/javascript/controllers/index.js",
   "exports": "./dist/tybo.modern.js",
